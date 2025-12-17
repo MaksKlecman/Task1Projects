@@ -42,7 +42,7 @@ http://localhost:8080/greeting
 - Image gomer.png is shown (loaded from static resources)
 
 Screenshot
-![Greeting page](screenshots/task1-greeting.png)
+![Greeting page](Screenshots/task1-greeting.png)
 
 Static Resources
 The image used in the application is stored in
